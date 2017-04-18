@@ -1,7 +1,10 @@
-# test coverage for  [wd (v1.2.0)](https://github.com/admc/wd#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-wd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wd.svg)](https://travis-ci.org/npmtest/node-npmtest-wd)
+# npmtest-wd
+
+#### test coverage for  [wd (v1.2.0)](https://github.com/admc/wd#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-wd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wd.svg)](https://travis-ci.org/npmtest/node-npmtest-wd)
+
 #### WebDriver/Selenium 2 node.js client
 
-[![NPM](https://nodei.co/npm/wd.png?downloads=true)](https://www.npmjs.com/package/wd)
+[![NPM](https://nodei.co/npm/wd.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/wd)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-wd/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-wd/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-wd/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-wd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-wd/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-wd/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-wd/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-wd%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-wd/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-wd/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-wd/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-wd%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-wd/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-wd/build/test-report.html](https://npmtest.github.io/node-npmtest-wd/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-wd/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-wd/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-wd/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-wd/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-wd/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-wd/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-wd/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Adam Christian",
-        "email": "adam.christian@gmail.com"
+        "name": "Adam Christian"
     },
     "bin": {
         "wd": "./lib/bin.js"
@@ -83,7 +91,6 @@
         },
         {
             "name": "Matti Schneider",
-            "email": "hi@mattischneider.fr",
             "url": "https://github.com/MattiSG"
         }
     ],
@@ -147,25 +154,20 @@
     "main": "./lib/main",
     "maintainers": [
         {
-            "name": "admc",
-            "email": "adam.christian@gmail.com"
+            "name": "admc"
         },
         {
-            "name": "sebv",
-            "email": "seb.vincent@gmail.com"
+            "name": "sebv"
         },
         {
-            "name": "jlipps",
-            "email": "jlipps@gmail.com"
+            "name": "jlipps"
         },
         {
-            "name": "sourishkrout",
-            "email": "sebastiantiedtke@gmail.com"
+            "name": "sourishkrout"
         }
     ],
     "name": "wd",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/admc/wd.git"
