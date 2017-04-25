@@ -1,6 +1,6 @@
 # npmtest-wd
 
-#### test coverage for  [wd (v1.2.0)](https://github.com/admc/wd#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-wd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wd.svg)](https://travis-ci.org/npmtest/node-npmtest-wd)
+#### basic test coverage for  [wd (v1.2.0)](https://github.com/admc/wd#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-wd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wd.svg)](https://travis-ci.org/npmtest/node-npmtest-wd)
 
 #### WebDriver/Selenium 2 node.js client
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-wd/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-wd/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-wd/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-wd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-wd/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-wd/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-wd/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-wd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-wd/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-wd/build/coverage.html/index.html)
 
