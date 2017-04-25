@@ -1,144 +1,144 @@
 <svg height="2254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 17:00:40 +0000   724319 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 17:00:40 +0000      584 bytes  LICENSE.APACHE2</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 17:00:40 +0000     1009 bytes  Makefile</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 17:00:40 +0000    19521 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 17:00:40 +0000      220 bytes  browser-scripts/safe-execute-async.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 17:00:40 +0000      193 bytes  browser-scripts/safe-execute.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 17:00:40 +0000      636 bytes  browser-scripts/wait-for-cond-in-browser.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 17:00:40 +0000      231 bytes  build/safe-execute-async.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 17:00:40 +0000      205 bytes  build/safe-execute.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 17:00:40 +0000      633 bytes  build/wait-for-cond-in-browser.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 17:00:40 +0000    68281 bytes  doc/api.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 17:00:40 +0000     1694 bytes  doc/deprecated-chain.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 17:00:40 +0000    73458 bytes  doc/jsonwire-full-mapping.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 17:00:40 +0000    12248 bytes  doc/jsonwire-full.json</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 17:00:40 +0000     1339 bytes  doc/jsonwire-mobile.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 17:00:40 +0000     6122 bytes  doc/jsonwire-unsupported-mapping.md</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 17:00:40 +0000     5390 bytes  doc/mapping-builder.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 17:00:40 +0000     1252 bytes  doc/mapping-template.htm</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 17:00:40 +0000     5466 bytes  doc/release-notes.md</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 17:00:40 +0000      122 bytes  examples/appium/README.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 17:00:40 +0000     1450 bytes  examples/async/add-method.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 17:00:40 +0000     1460 bytes  examples/async/browserstack.ie.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 17:00:40 +0000     1402 bytes  examples/async/browserstack.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 17:00:40 +0000     1068 bytes  examples/async/chrome.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 17:00:40 +0000     1069 bytes  examples/async/firefox.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 17:00:40 +0000     1378 bytes  examples/async/sauce.ie.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 17:00:40 +0000     1331 bytes  examples/async/sauce.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 17:00:40 +0000     1234 bytes  examples/deprecated/deprecated.chain.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 17:00:40 +0000     2320 bytes  examples/deprecated/wait-for-simple.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 17:00:40 +0000     1711 bytes  examples/promise/add-method-async.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 17:00:40 +0000     1901 bytes  examples/promise/add-method-no-chain.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 17:00:40 +0000     1422 bytes  examples/promise/add-method.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 17:00:40 +0000     1360 bytes  examples/promise/browserstack.ie.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 17:00:40 +0000     1304 bytes  examples/promise/browserstack.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 17:00:40 +0000     3396 bytes  examples/promise/chained-el-func-call.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 17:00:40 +0000     1146 bytes  examples/promise/chrome.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 17:00:40 +0000     1261 bytes  examples/promise/chromedriver.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 17:00:40 +0000     1127 bytes  examples/promise/complex.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 17:00:40 +0000     1268 bytes  examples/promise/drag-n-drop.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 17:00:40 +0000     1305 bytes  examples/promise/external-promise.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 17:00:40 +0000     1147 bytes  examples/promise/firefox.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 17:00:40 +0000     2137 bytes  examples/promise/harmony.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 17:00:40 +0000     1052 bytes  examples/promise/helper.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 17:00:40 +0000     1523 bytes  examples/promise/mocha-harmony.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 17:00:40 +0000     2988 bytes  examples/promise/mocha-specs.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 17:00:40 +0000     1127 bytes  examples/promise/no-chain.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 17:00:40 +0000     1306 bytes  examples/promise/sauce-connect.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 17:00:40 +0000     1360 bytes  examples/promise/sauce.ie.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 17:00:40 +0000     1342 bytes  examples/promise/sauce.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 17:00:40 +0000     3246 bytes  examples/promise/wait-for-custom.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 17:00:40 +0000     1830 bytes  examples/promise/wait-for-simple.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 17:00:40 +0000     8652 bytes  gulpfile.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 17:00:40 +0000      105 bytes  install-node.sh</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 17:00:40 +0000     4046 bytes  lib/actions.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 17:00:40 +0000     2630 bytes  lib/asserters.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 17:00:40 +0000      860 bytes  lib/bin.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 17:00:40 +0000     5580 bytes  lib/callbacks.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 17:00:40 +0000    81787 bytes  lib/commands.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 17:00:40 +0000      760 bytes  lib/config.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 17:00:40 +0000     3740 bytes  lib/deprecated-chain.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 17:00:40 +0000    12390 bytes  lib/element-commands.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 17:00:40 +0000     1527 bytes  lib/element.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 17:00:40 +0000     3030 bytes  lib/http-utils.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 17:00:40 +0000     2947 bytes  lib/jsonwire-errors.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 17:00:40 +0000      195 bytes  lib/lodash.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 17:00:40 +0000     9068 bytes  lib/main.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 17:00:40 +0000    11214 bytes  lib/promise-webdriver.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 17:00:40 +0000     1271 bytes  lib/special-keys.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 17:00:40 +0000     2630 bytes  lib/tmp.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 17:00:40 +0000     4737 bytes  lib/utils.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 17:00:40 +0000     7256 bytes  lib/webdriver.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 17:00:40 +0000     4462 bytes  package.json</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 17:00:40 +0000      832 bytes  scripts/build-browser-scripts.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 17:00:40 +0000     3049 bytes  test/coverage/run_tests.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 17:00:40 +0000     1464 bytes  test/e2e/async.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 17:00:40 +0000     1222 bytes  test/e2e/basic-specs.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 17:00:40 +0000     3138 bytes  test/e2e/deprecated-chain-specs.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 17:00:40 +0000     1771 bytes  test/e2e/promise-chain-specs.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 17:00:40 +0000     1627 bytes  test/e2e/promise-no-chain-specs.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 17:00:40 +0000     1301 bytes  test/e2e/sauce-helpers-specs.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 17:00:40 +0000     3679 bytes  test/helpers/env.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 17:00:40 +0000     1106 bytes  test/helpers/express-helper.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 17:00:40 +0000      305 bytes  test/helpers/make-tool.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 17:00:40 +0000     1128 bytes  test/helpers/mobile_env.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 17:00:40 +0000       72 bytes  test/helpers/quit-gracefully.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 17:00:40 +0000     2673 bytes  test/helpers/setup.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 17:00:40 +0000      607 bytes  test/helpers/skip.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 17:00:40 +0000     2979 bytes  test/midway/add-methods-async-specs.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 17:00:40 +0000     6998 bytes  test/midway/add-methods-pc-specs.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 17:00:40 +0000     5177 bytes  test/midway/add-methods-pnc-specs.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 17:00:40 +0000     7808 bytes  test/midway/api-el-specs.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 17:00:40 +0000     4830 bytes  test/midway/api-el-suffix-base.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 17:00:40 +0000     8890 bytes  test/midway/api-exec-specs.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 17:00:40 +0000    10260 bytes  test/midway/api-nav-specs.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 17:00:40 +0000    12343 bytes  test/midway/api-various-specs.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 17:00:40 +0000     4741 bytes  test/midway/asserters-specs.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 17:00:40 +0000      413 bytes  test/midway/assets/public/frame-test/bottombanne\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 04:30:25 +0000   724319 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 04:30:25 +0000      584 bytes  LICENSE.APACHE2</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 04:30:25 +0000     1009 bytes  Makefile</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 04:30:25 +0000    19521 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 04:30:25 +0000      220 bytes  browser-scripts/safe-execute-async.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 04:30:25 +0000      193 bytes  browser-scripts/safe-execute.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 04:30:25 +0000      636 bytes  browser-scripts/wait-for-cond-in-browser.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 04:30:25 +0000      231 bytes  build/safe-execute-async.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 04:30:25 +0000      205 bytes  build/safe-execute.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 04:30:25 +0000      633 bytes  build/wait-for-cond-in-browser.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 04:30:25 +0000    68281 bytes  doc/api.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 04:30:25 +0000     1694 bytes  doc/deprecated-chain.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 04:30:25 +0000    73458 bytes  doc/jsonwire-full-mapping.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 04:30:25 +0000    12248 bytes  doc/jsonwire-full.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 04:30:25 +0000     1339 bytes  doc/jsonwire-mobile.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 04:30:25 +0000     6122 bytes  doc/jsonwire-unsupported-mapping.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 04:30:25 +0000     5390 bytes  doc/mapping-builder.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 04:30:25 +0000     1252 bytes  doc/mapping-template.htm</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 04:30:25 +0000     5466 bytes  doc/release-notes.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 04:30:25 +0000      122 bytes  examples/appium/README.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 04:30:25 +0000     1450 bytes  examples/async/add-method.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 04:30:25 +0000     1460 bytes  examples/async/browserstack.ie.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 04:30:25 +0000     1402 bytes  examples/async/browserstack.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 04:30:25 +0000     1068 bytes  examples/async/chrome.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 04:30:25 +0000     1069 bytes  examples/async/firefox.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 04:30:25 +0000     1378 bytes  examples/async/sauce.ie.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 04:30:25 +0000     1331 bytes  examples/async/sauce.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 04:30:25 +0000     1234 bytes  examples/deprecated/deprecated.chain.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 04:30:25 +0000     2320 bytes  examples/deprecated/wait-for-simple.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 04:30:25 +0000     1711 bytes  examples/promise/add-method-async.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 04:30:25 +0000     1901 bytes  examples/promise/add-method-no-chain.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 04:30:25 +0000     1422 bytes  examples/promise/add-method.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 04:30:25 +0000     1360 bytes  examples/promise/browserstack.ie.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 04:30:25 +0000     1304 bytes  examples/promise/browserstack.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 04:30:25 +0000     3396 bytes  examples/promise/chained-el-func-call.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 04:30:25 +0000     1146 bytes  examples/promise/chrome.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 04:30:25 +0000     1261 bytes  examples/promise/chromedriver.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 04:30:25 +0000     1127 bytes  examples/promise/complex.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 04:30:25 +0000     1268 bytes  examples/promise/drag-n-drop.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 04:30:25 +0000     1305 bytes  examples/promise/external-promise.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 04:30:25 +0000     1147 bytes  examples/promise/firefox.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 04:30:25 +0000     2137 bytes  examples/promise/harmony.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 04:30:25 +0000     1052 bytes  examples/promise/helper.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 04:30:25 +0000     1523 bytes  examples/promise/mocha-harmony.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 04:30:25 +0000     2988 bytes  examples/promise/mocha-specs.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 04:30:25 +0000     1127 bytes  examples/promise/no-chain.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 04:30:25 +0000     1306 bytes  examples/promise/sauce-connect.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 04:30:25 +0000     1360 bytes  examples/promise/sauce.ie.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 04:30:25 +0000     1342 bytes  examples/promise/sauce.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 04:30:25 +0000     3246 bytes  examples/promise/wait-for-custom.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 04:30:25 +0000     1830 bytes  examples/promise/wait-for-simple.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 04:30:25 +0000     8652 bytes  gulpfile.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 04:30:25 +0000      105 bytes  install-node.sh</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 04:30:25 +0000     4046 bytes  lib/actions.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 04:30:25 +0000     2630 bytes  lib/asserters.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 04:30:25 +0000      860 bytes  lib/bin.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-25 04:30:25 +0000     5580 bytes  lib/callbacks.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-25 04:30:25 +0000    81787 bytes  lib/commands.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-25 04:30:25 +0000      760 bytes  lib/config.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-25 04:30:25 +0000     3740 bytes  lib/deprecated-chain.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-25 04:30:25 +0000    12390 bytes  lib/element-commands.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-25 04:30:25 +0000     1527 bytes  lib/element.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-25 04:30:25 +0000     3030 bytes  lib/http-utils.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-25 04:30:25 +0000     2947 bytes  lib/jsonwire-errors.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-25 04:30:25 +0000      195 bytes  lib/lodash.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-25 04:30:25 +0000     9068 bytes  lib/main.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-25 04:30:25 +0000    11214 bytes  lib/promise-webdriver.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-25 04:30:25 +0000     1271 bytes  lib/special-keys.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-25 04:30:25 +0000     2630 bytes  lib/tmp.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-25 04:30:25 +0000     4737 bytes  lib/utils.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-25 04:30:25 +0000     7256 bytes  lib/webdriver.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-25 04:30:25 +0000     4462 bytes  package.json</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-25 04:30:25 +0000      832 bytes  scripts/build-browser-scripts.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-25 04:30:25 +0000     3049 bytes  test/coverage/run_tests.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-25 04:30:25 +0000     1464 bytes  test/e2e/async.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-25 04:30:25 +0000     1222 bytes  test/e2e/basic-specs.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-25 04:30:25 +0000     3138 bytes  test/e2e/deprecated-chain-specs.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-25 04:30:25 +0000     1771 bytes  test/e2e/promise-chain-specs.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-25 04:30:25 +0000     1627 bytes  test/e2e/promise-no-chain-specs.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-25 04:30:25 +0000     1301 bytes  test/e2e/sauce-helpers-specs.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-25 04:30:25 +0000     3679 bytes  test/helpers/env.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-25 04:30:25 +0000     1106 bytes  test/helpers/express-helper.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-25 04:30:25 +0000      305 bytes  test/helpers/make-tool.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-25 04:30:25 +0000     1128 bytes  test/helpers/mobile_env.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-25 04:30:25 +0000       72 bytes  test/helpers/quit-gracefully.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-25 04:30:25 +0000     2673 bytes  test/helpers/setup.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-25 04:30:25 +0000      607 bytes  test/helpers/skip.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-25 04:30:25 +0000     2979 bytes  test/midway/add-methods-async-specs.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-25 04:30:25 +0000     6998 bytes  test/midway/add-methods-pc-specs.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-25 04:30:25 +0000     5177 bytes  test/midway/add-methods-pnc-specs.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-25 04:30:25 +0000     7808 bytes  test/midway/api-el-specs.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-25 04:30:25 +0000     4830 bytes  test/midway/api-el-suffix-base.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-25 04:30:25 +0000     8890 bytes  test/midway/api-exec-specs.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-25 04:30:25 +0000    10260 bytes  test/midway/api-nav-specs.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-25 04:30:25 +0000    12343 bytes  test/midway/api-various-specs.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-25 04:30:25 +0000     4741 bytes  test/midway/asserters-specs.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-25 04:30:25 +0000      413 bytes  test/midway/assets/public/frame-test/bottombanne\</tspan>
 <tspan x="10" y="1578">r.htm</tspan>
-<tspan x="10" y="1594"> 97.  2017-04-18 17:00:40 +0000      574 bytes  test/midway/assets/public/frame-test/index.html</tspan>
-<tspan x="10" y="1610"> 98.  2017-04-18 17:00:40 +0000      411 bytes  test/midway/assets/public/frame-test/menupage.ht\</tspan>
+<tspan x="10" y="1594"> 97.  2017-04-25 04:30:25 +0000      574 bytes  test/midway/assets/public/frame-test/index.html</tspan>
+<tspan x="10" y="1610"> 98.  2017-04-25 04:30:25 +0000      411 bytes  test/midway/assets/public/frame-test/menupage.ht\</tspan>
 <tspan x="10" y="1626">m</tspan>
-<tspan x="10" y="1642"> 99.  2017-04-18 17:00:40 +0000      414 bytes  test/midway/assets/public/frame-test/welcomepage\</tspan>
+<tspan x="10" y="1642"> 99.  2017-04-25 04:30:25 +0000      414 bytes  test/midway/assets/public/frame-test/welcomepage\</tspan>
 <tspan x="10" y="1658">.htm</tspan>
-<tspan x="10" y="1674">100.  2017-04-18 17:00:40 +0000     2748 bytes  test/midway/assets/public/styles.css</tspan>
-<tspan x="10" y="1690">101.  2017-04-18 17:00:40 +0000    81570 bytes  test/midway/assets/tux.jpg</tspan>
-<tspan x="10" y="1706">102.  2017-04-18 17:00:40 +0000      945 bytes  test/midway/assets/views/test-page.hbs</tspan>
-<tspan x="10" y="1722">103.  2017-04-18 17:00:40 +0000      916 bytes  test/midway/attach-specs.js</tspan>
-<tspan x="10" y="1738">104.  2017-04-18 17:00:40 +0000     1702 bytes  test/midway/chaining-scope-specs.js</tspan>
-<tspan x="10" y="1754">105.  2017-04-18 17:00:40 +0000     1555 bytes  test/midway/chaining-specs.js</tspan>
-<tspan x="10" y="1770">106.  2017-04-18 17:00:40 +0000    10365 bytes  test/midway/element-specs.js</tspan>
-<tspan x="10" y="1786">107.  2017-04-18 17:00:40 +0000     3734 bytes  test/midway/external-promises-specs.js</tspan>
-<tspan x="10" y="1802">108.  2017-04-18 17:00:40 +0000     1038 bytes  test/midway/frame-specs.js</tspan>
-<tspan x="10" y="1818">109.  2017-04-18 17:00:40 +0000     4453 bytes  test/midway/keying-specs.js</tspan>
-<tspan x="10" y="1834">110.  2017-04-18 17:00:40 +0000     1773 bytes  test/midway/midway-base.js</tspan>
-<tspan x="10" y="1850">111.  2017-04-18 17:00:40 +0000      713 bytes  test/midway/mobile-specs.js</tspan>
-<tspan x="10" y="1866">112.  2017-04-18 17:00:40 +0000     5778 bytes  test/midway/multi/config-http-specs.js</tspan>
-<tspan x="10" y="1882">113.  2017-04-18 17:00:40 +0000     3216 bytes  test/midway/multi/init-specs.js</tspan>
-<tspan x="10" y="1898">114.  2017-04-18 17:00:40 +0000     1618 bytes  test/midway/multi/status-specs.js</tspan>
-<tspan x="10" y="1914">115.  2017-04-18 17:00:40 +0000      536 bytes  test/midway/suffixes/api-el-by-class-specs.js</tspan>
-<tspan x="10" y="1930">116.  2017-04-18 17:00:40 +0000      532 bytes  test/midway/suffixes/api-el-by-css-sel-specs.js</tspan>
-<tspan x="10" y="1946">117.  2017-04-18 17:00:40 +0000      520 bytes  test/midway/suffixes/api-el-by-css-specs.js</tspan>
-<tspan x="10" y="1962">118.  2017-04-18 17:00:40 +0000      328 bytes  test/midway/suffixes/api-el-by-id-specs.js</tspan>
-<tspan x="10" y="1978">119.  2017-04-18 17:00:40 +0000      487 bytes  test/midway/suffixes/api-el-by-link-specs.js</tspan>
-<tspan x="10" y="1994">120.  2017-04-18 17:00:40 +0000      516 bytes  test/midway/suffixes/api-el-by-name-specs.js</tspan>
-<tspan x="10" y="2010">121.  2017-04-18 17:00:40 +0000      552 bytes  test/midway/suffixes/api-el-by-partial-link-spec\</tspan>
+<tspan x="10" y="1674">100.  2017-04-25 04:30:25 +0000     2748 bytes  test/midway/assets/public/styles.css</tspan>
+<tspan x="10" y="1690">101.  2017-04-25 04:30:25 +0000    81570 bytes  test/midway/assets/tux.jpg</tspan>
+<tspan x="10" y="1706">102.  2017-04-25 04:30:25 +0000      945 bytes  test/midway/assets/views/test-page.hbs</tspan>
+<tspan x="10" y="1722">103.  2017-04-25 04:30:25 +0000      916 bytes  test/midway/attach-specs.js</tspan>
+<tspan x="10" y="1738">104.  2017-04-25 04:30:25 +0000     1702 bytes  test/midway/chaining-scope-specs.js</tspan>
+<tspan x="10" y="1754">105.  2017-04-25 04:30:25 +0000     1555 bytes  test/midway/chaining-specs.js</tspan>
+<tspan x="10" y="1770">106.  2017-04-25 04:30:25 +0000    10365 bytes  test/midway/element-specs.js</tspan>
+<tspan x="10" y="1786">107.  2017-04-25 04:30:25 +0000     3734 bytes  test/midway/external-promises-specs.js</tspan>
+<tspan x="10" y="1802">108.  2017-04-25 04:30:25 +0000     1038 bytes  test/midway/frame-specs.js</tspan>
+<tspan x="10" y="1818">109.  2017-04-25 04:30:25 +0000     4453 bytes  test/midway/keying-specs.js</tspan>
+<tspan x="10" y="1834">110.  2017-04-25 04:30:25 +0000     1773 bytes  test/midway/midway-base.js</tspan>
+<tspan x="10" y="1850">111.  2017-04-25 04:30:25 +0000      713 bytes  test/midway/mobile-specs.js</tspan>
+<tspan x="10" y="1866">112.  2017-04-25 04:30:25 +0000     5778 bytes  test/midway/multi/config-http-specs.js</tspan>
+<tspan x="10" y="1882">113.  2017-04-25 04:30:25 +0000     3216 bytes  test/midway/multi/init-specs.js</tspan>
+<tspan x="10" y="1898">114.  2017-04-25 04:30:25 +0000     1618 bytes  test/midway/multi/status-specs.js</tspan>
+<tspan x="10" y="1914">115.  2017-04-25 04:30:25 +0000      536 bytes  test/midway/suffixes/api-el-by-class-specs.js</tspan>
+<tspan x="10" y="1930">116.  2017-04-25 04:30:25 +0000      532 bytes  test/midway/suffixes/api-el-by-css-sel-specs.js</tspan>
+<tspan x="10" y="1946">117.  2017-04-25 04:30:25 +0000      520 bytes  test/midway/suffixes/api-el-by-css-specs.js</tspan>
+<tspan x="10" y="1962">118.  2017-04-25 04:30:25 +0000      328 bytes  test/midway/suffixes/api-el-by-id-specs.js</tspan>
+<tspan x="10" y="1978">119.  2017-04-25 04:30:25 +0000      487 bytes  test/midway/suffixes/api-el-by-link-specs.js</tspan>
+<tspan x="10" y="1994">120.  2017-04-25 04:30:25 +0000      516 bytes  test/midway/suffixes/api-el-by-name-specs.js</tspan>
+<tspan x="10" y="2010">121.  2017-04-25 04:30:25 +0000      552 bytes  test/midway/suffixes/api-el-by-partial-link-spec\</tspan>
 <tspan x="10" y="2026">s.js</tspan>
-<tspan x="10" y="2042">122.  2017-04-18 17:00:40 +0000      453 bytes  test/midway/suffixes/api-el-by-tag-name-specs.js</tspan>
-<tspan x="10" y="2058">123.  2017-04-18 17:00:40 +0000      460 bytes  test/midway/suffixes/api-el-by-xpath-specs.js</tspan>
-<tspan x="10" y="2074">124.  2017-04-18 17:00:40 +0000     4453 bytes  test/midway/typing-specs.js</tspan>
-<tspan x="10" y="2090">125.  2017-04-18 17:00:40 +0000     6639 bytes  test/midway/wait-for-1-specs.js</tspan>
-<tspan x="10" y="2106">126.  2017-04-18 17:00:40 +0000     6814 bytes  test/midway/wait-for-2-specs.js</tspan>
-<tspan x="10" y="2122">127.  2017-04-18 17:00:40 +0000     4770 bytes  test/midway/window-specs.js</tspan>
-<tspan x="10" y="2138">128.  2017-04-18 17:00:40 +0000       92 bytes  test/mocha.opts</tspan>
-<tspan x="10" y="2154">129.  2017-04-18 17:00:40 +0000     3333 bytes  test/specs/callback-specs.js</tspan>
-<tspan x="10" y="2170">130.  2017-04-18 17:00:40 +0000     1491 bytes  test/specs/http-specs.js</tspan>
-<tspan x="10" y="2186">131.  2017-04-18 17:00:40 +0000     2080 bytes  test/specs/init-specs.js</tspan>
-<tspan x="10" y="2202">132.  2017-04-18 17:00:40 +0000     9288 bytes  test/specs/mjson-actions-specs.js</tspan>
-<tspan x="10" y="2218">133.  2017-04-18 17:00:40 +0000    36770 bytes  test/specs/mjson-specs.js</tspan>
-<tspan x="10" y="2234">134.  2017-04-18 17:00:40 +0000    15807 bytes  test/specs/remote-specs.js</tspan>
+<tspan x="10" y="2042">122.  2017-04-25 04:30:25 +0000      453 bytes  test/midway/suffixes/api-el-by-tag-name-specs.js</tspan>
+<tspan x="10" y="2058">123.  2017-04-25 04:30:25 +0000      460 bytes  test/midway/suffixes/api-el-by-xpath-specs.js</tspan>
+<tspan x="10" y="2074">124.  2017-04-25 04:30:25 +0000     4453 bytes  test/midway/typing-specs.js</tspan>
+<tspan x="10" y="2090">125.  2017-04-25 04:30:25 +0000     6639 bytes  test/midway/wait-for-1-specs.js</tspan>
+<tspan x="10" y="2106">126.  2017-04-25 04:30:25 +0000     6814 bytes  test/midway/wait-for-2-specs.js</tspan>
+<tspan x="10" y="2122">127.  2017-04-25 04:30:25 +0000     4770 bytes  test/midway/window-specs.js</tspan>
+<tspan x="10" y="2138">128.  2017-04-25 04:30:25 +0000       92 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="2154">129.  2017-04-25 04:30:25 +0000     3333 bytes  test/specs/callback-specs.js</tspan>
+<tspan x="10" y="2170">130.  2017-04-25 04:30:25 +0000     1491 bytes  test/specs/http-specs.js</tspan>
+<tspan x="10" y="2186">131.  2017-04-25 04:30:25 +0000     2080 bytes  test/specs/init-specs.js</tspan>
+<tspan x="10" y="2202">132.  2017-04-25 04:30:25 +0000     9288 bytes  test/specs/mjson-actions-specs.js</tspan>
+<tspan x="10" y="2218">133.  2017-04-25 04:30:25 +0000    36770 bytes  test/specs/mjson-specs.js</tspan>
+<tspan x="10" y="2234">134.  2017-04-25 04:30:25 +0000    15807 bytes  test/specs/remote-specs.js</tspan>
 </text>
 </svg>
